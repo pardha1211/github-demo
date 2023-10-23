@@ -8,6 +8,11 @@ repository and various commands using web project.
 
 ## Purpose
 
+As discussed above, the main purpose is to provide 
+simple examples for Git training Demos.
+
 ## Deployment
+
+This is a sample project to demonstrate deployment.
 
 ## How to Contribute
