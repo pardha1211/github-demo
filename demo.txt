@@ -1,3 +1,5 @@
+<This is a Copy right note>
+
 Hello this is an Example activity
 
 This is second line
