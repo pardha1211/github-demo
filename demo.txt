@@ -1,3 +1,6 @@
-Hello this is first line
+Hello this is an Example activity
 
 This is second line
+
+
+
