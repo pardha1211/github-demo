@@ -4,5 +4,7 @@ Hello this is an Example activity
 
 This is second line
 
+Updated demo from the new branch update-demo
+
 
 
